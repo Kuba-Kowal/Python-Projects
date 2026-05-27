@@ -1,4 +1,3 @@
-# Jakub Kowalczyk @ York College
 # V2 | + Trade History | + Time Simulation
 
 from random import randint, uniform
